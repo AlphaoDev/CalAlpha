@@ -1,0 +1,8 @@
+name: CalAlpha
+main: fr.alphao.main
+version: 0.1
+description: Plugin de test v2 d'Alphao.
+author: Alphao
+commands:
+  rp:
+  issou:
